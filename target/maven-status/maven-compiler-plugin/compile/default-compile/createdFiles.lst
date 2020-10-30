@@ -1,8 +1,0 @@
-aspect\AfterAspect.class
-exceptions\BookNotFoundException.class
-config\ProjectConfig.class
-model\Book.class
-service\BookService.class
-aspect\BeforeAspect.class
-aspect\ErrorAspect.class
-main\Main.class
